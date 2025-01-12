@@ -7,6 +7,8 @@ This lightweight, single-file PHP shell provides a web-based terminal interface,
 ---
 
 ## Description
+![Interface](images/screenshot.png)
+
 
 ### Terminal
 
