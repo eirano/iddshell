@@ -1,3 +1,11 @@
+<pre>
+iDD╭━━━━╮    ╭╮    ╭╮╭╮ 
+╭━━╯ ╭━ ╰╮   ┃┃    ┃┃┃┃ 
+┃    ┃ • ┃╭━━┫╰━┳━━┫┃┃┃
+┣╮   ╰━━╮┣┃━━┫╭╮┃ ━┫┃┃┃
+┃┃ ╭━╮ ╭┫┃┣━━┃┃┃┃ ━┫╰┫╰╮
+ ╰━╯ ╰━╯╰╯╰━━┻╯╰┻━━┻━┻━╯
+</pre>
 # PHP Web Terminal: Single-File PHP Shell for Administrators
 
 > **WARNING**: This script poses a significant security risk. Use only in trusted environments with proper security measures.
@@ -7,6 +15,7 @@ This lightweight, single-file PHP shell provides a web-based terminal interface,
 ---
 
 ## Description
+
 ![Interface](images/screenshot.png)
 
 
